@@ -7,7 +7,9 @@ $ python3 main.py --n <NUMBER-OF-FILES> --d <DELAY> --s <SUBJECT>
 ```
 
 --n : Number of receivers file
+
 --d : Delay between mails in secs
+
 --s : Subject of mails
 
 Format of receivers file->
